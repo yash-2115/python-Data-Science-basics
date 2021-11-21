@@ -1,0 +1,14 @@
+{
+	"tom": {
+		"name": "Tom",
+		"age": "25",
+		"address": "123 Main St",
+		"phone": "555-555-5555"
+	},
+	"jerry": {
+		"name": "Jerry",
+		"age": "30",
+		"address": "456 Main St",
+		"phone": "555-555-5555"
+	}
+}
